@@ -1,0 +1,17 @@
+{
+  "name": "rush",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:rocket3989/rush.git",
+  "author": "rocket3989 <rocket3989@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.17.1",
+    "ws": "^7.2.0"
+  },
+  "scripts": {
+    "start": "node script.js",
+    "update": "rsync -avz -e 'ssh' /mnt/c/Users/rocket3989/Desktop/networking/rush root@142.93.74.157:~"
+  }
+}
