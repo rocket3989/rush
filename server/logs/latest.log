@@ -1,0 +1,160 @@
+[18:24:57] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:24:57] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:24:57] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:24:57] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:24:57] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:24:57] [Server thread/INFO]: Starting minecraft server version 1.15.1
+[18:24:57] [Server thread/INFO]: Loading properties
+[18:24:57] [Server thread/INFO]: Default game type: SURVIVAL
+[18:24:57] [Server thread/INFO]: Generating keypair
+[18:24:58] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:24:58] [Server thread/INFO]: Using default channel type
+[18:24:59] [Server thread/INFO]: Preparing level "world"
+[18:24:59] [Server thread/INFO]: Reloading ResourceManager: Default
+[18:25:00] [Server thread/INFO]: Loaded 6 recipes
+[18:25:00] [Server thread/INFO]: Loaded 825 advancements
+[18:25:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:25:02] [Server thread/INFO]: Preparing spawn area: 0%
+[18:25:02] [Server thread/INFO]: Preparing spawn area: 0%
+[18:25:02] [Server thread/INFO]: Preparing spawn area: 0%
+[18:25:03] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[18:25:03] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[18:25:04] [Server thread/INFO]: Time elapsed: 2584 ms
+[18:25:04] [Server thread/INFO]: Done (4.914s)! For help, type "help"
+[18:25:21] [User Authenticator #1/INFO]: UUID of player GreenishBlueish is 46620592-bf3f-4550-9196-6f73463162da
+[18:25:21] [Server thread/INFO]: GreenishBlueish[/24.60.255.218:54709] logged in with entity id 201 at (-106.33668200249201, 66.0, -318.8743699813181)
+[18:25:22] [Server thread/INFO]: GreenishBlueish joined the game
+[18:29:09] [Server thread/INFO]: [@: Set the time to 1000]
+[18:39:21] [Server thread/INFO]: [@: Set the time to 1000]
+[18:49:32] [Server thread/INFO]: [@: Set the time to 1000]
+[18:59:44] [Server thread/INFO]: [@: Set the time to 1000]
+[19:09:56] [Server thread/INFO]: [@: Set the time to 1000]
+[19:20:07] [Server thread/INFO]: [@: Set the time to 1000]
+[19:23:48] [Server thread/INFO]: GreenishBlueish lost connection: Disconnected
+[19:23:48] [Server thread/INFO]: GreenishBlueish left the game
+[19:25:57] [User Authenticator #2/INFO]: UUID of player GreenishBlueish is 46620592-bf3f-4550-9196-6f73463162da
+[19:25:57] [Server thread/INFO]: GreenishBlueish[/24.60.255.218:55132] logged in with entity id 15114 at (-105.68025524752831, 71.0, -323.0474567156738)
+[19:25:57] [Server thread/INFO]: GreenishBlueish joined the game
+[19:27:58] [Server thread/INFO]: GreenishBlueish lost connection: Disconnected
+[19:27:58] [Server thread/INFO]: GreenishBlueish left the game
+[19:28:35] [User Authenticator #3/INFO]: UUID of player GreenishBlueish is 46620592-bf3f-4550-9196-6f73463162da
+[19:28:35] [Server thread/INFO]: GreenishBlueish[/24.60.255.218:55150] logged in with entity id 15736 at (-105.68025524752831, 71.0, -323.0474567156738)
+[19:28:35] [Server thread/INFO]: GreenishBlueish joined the game
+[19:28:40] [User Authenticator #4/INFO]: UUID of player ReFineTray_1 is f08c49db-56f6-4d2f-b216-a6889f0da6fe
+[19:28:40] [Server thread/INFO]: ReFineTray_1[/74.93.82.210:9480] logged in with entity id 15753 at (-106.1235030201592, 68.0, -327.3326858440582)
+[19:28:40] [Server thread/INFO]: ReFineTray_1 joined the game
+[19:30:19] [Server thread/INFO]: [@: Set the time to 1000]
+[19:37:40] [Server thread/INFO]: [Server] tEn MoRe MiNuTeS
+[19:37:49] [Server thread/INFO]: <ReFineTray_1> lol thanks collin
+[19:37:58] [Server thread/INFO]: <ReFineTray_1> i don't actually know if you can see this
+[19:38:09] [Server thread/INFO]: [Server] you can use it as long as you want lol
+[19:38:15] [Server thread/INFO]: <ReFineTray_1> <3
+[19:38:15] [Server thread/INFO]: [Server] just making fun of Amy
+[19:38:25] [Server thread/INFO]: [Server] I got a free ram upgrade
+[19:38:34] [Server thread/INFO]: [Server] 24 gig life
+[19:38:42] [Server thread/INFO]: <ReFineTray_1> oh shit
+[19:38:57] [Server thread/INFO]: <GreenishBlueish> heyyyyy <3
+[19:38:57] [Server thread/INFO]: <ReFineTray_1> in your laptop? I didn't knowpeople did that
+[19:39:09] [Server thread/INFO]: <GreenishBlueish> I have friends yay
+[19:39:14] [Server thread/INFO]: [ReFineTray_1: Set own game mode to Creative Mode]
+[19:39:42] [Server thread/INFO]: [Server] I tried to fix some julian mac books, but they were toast
+[19:39:55] [Server thread/INFO]: [Server] but they had some juicy ram in them
+[19:40:08] [Server thread/INFO]: [Server] and then I found out my pc has 3 ram slots
+[19:40:16] [Server thread/INFO]: <ReFineTray_1> juicy
+[19:40:17] [Server thread/INFO]: [Server] uhh 4
+[19:40:31] [Server thread/INFO]: [@: Set the time to 1000]
+[19:40:34] [Server thread/INFO]: <ReFineTray_1> oh when are you back in OP?
+[19:41:07] [Server thread/INFO]: [Server] sunday!
+[19:43:00] [Server thread/INFO]: <ReFineTray_1> early enough to hang or no?
+[19:45:26] [Server thread/INFO]: [Server] hmm not sure
+[19:45:34] [Server thread/INFO]: [Server] let me figure that out
+[19:45:39] [User Authenticator #5/INFO]: UUID of player rocket3989 is 6cce9231-423d-46a5-b239-d55e89807bec
+[19:45:39] [Server thread/INFO]: rocket3989[/127.0.0.1:56219] logged in with entity id 20305 at (-102.03470382153527, 71.0, -324.5160990459742)
+[19:45:39] [Server thread/INFO]: rocket3989 joined the game
+[19:46:37] [Server thread/INFO]: <rocket3989> can you change your name yet?
+[19:46:44] [Server thread/INFO]: <ReFineTray_1> not till january 16
+[19:46:51] [Server thread/INFO]: <rocket3989> you should keep it
+[19:46:55] [Server thread/INFO]: <ReFineTray_1> absolutely not
+[19:46:59] [Server thread/INFO]: <GreenishBlueish> collin did you see our floor 3
+[19:47:04] [Server thread/INFO]: <GreenishBlueish> and diving board
+[19:47:17] [Server thread/INFO]: <rocket3989> oooo bricks
+[19:47:19] [Server thread/INFO]: <rocket3989> nice
+[19:47:46] [Server thread/INFO]: <GreenishBlueish> collin come down to map room
+[19:48:13] [Server thread/INFO]: <rocket3989> glub
+[19:48:16] [Server thread/INFO]: <rocket3989> glub
+[19:48:18] [Server thread/INFO]: <rocket3989> ....
+[19:48:27] [Server thread/INFO]: <GreenishBlueish> isn't it big fun
+[19:48:40] [Server thread/INFO]: [rocket3989: Teleported rocket3989 to -90.42027743590081, 250.0, -344.8451017222077]
+[19:48:40] [Server thread/WARN]: rocket3989 moved too quickly! 0.0,215.0,0.0
+[19:49:07] [Server thread/INFO]: <rocket3989> there needs to be a landing strip
+[19:49:12] [Server thread/INFO]: <rocket3989> for when I go flying
+[19:49:14] [Server thread/INFO]: <rocket3989> for when I go flying
+[19:49:18] [Server thread/INFO]: [rocket3989: Teleported rocket3989 to -98.91614418780388, 250.0, -325.71064603631686]
+[19:49:18] [Server thread/WARN]: rocket3989 moved too quickly! 0.0,179.5,0.0
+[19:49:43] [Server thread/INFO]: [rocket3989: Teleported rocket3989 to -95.5442615905939, 250.0, -337.32779776012796]
+[19:49:43] [Server thread/WARN]: rocket3989 moved too quickly! -0.02793820338378339,163.1814505238121,-0.024407085830262076
+[19:50:27] [Server thread/INFO]: <rocket3989> did you tell patrick about the great flood
+[19:50:43] [Server thread/INFO]: [@: Set the time to 1000]
+[19:52:18] [Server thread/INFO]: <rocket3989> WTF
+[19:53:19] [Server thread/INFO]: [rocket3989: Teleported ReFineTray_1 to rocket3989]
+[19:53:32] [Server thread/INFO]: <rocket3989> everything the light touches
+[19:53:40] [Server thread/INFO]: <rocket3989> is your kingdom
+[19:53:52] [Server thread/INFO]: <ReFineTray_1> NAAAAHHHH SAVENYAAAAA
+[19:54:08] [Server thread/INFO]: <GreenishBlueish> mama chi chi hua hua
+[19:54:23] [Server thread/INFO]: <rocket3989> amazing
+[19:55:43] [Server thread/INFO]: <rocket3989> you can back a wider spiral by mixing slaps in
+[19:55:59] [Server thread/INFO]: <ReFineTray_1> eh?
+[19:56:31] [Server thread/INFO]: <ReFineTray_1> you can make a wider spiral by mixing slabs in
+[19:57:14] [Server thread/INFO]: <rocket3989> something like that
+[19:57:17] [Server thread/INFO]: <rocket3989> camt recal
+[19:57:25] [Server thread/INFO]: <GreenishBlueish> would I be able to do that in the tight space?
+[19:57:43] [Server thread/WARN]: ReFineTray_1 moved too quickly! 9.022853518239643,-5.3074800456282105,1.8288375167918502
+[19:58:13] [Server thread/INFO]: ReFineTray_1 lost connection: Disconnected
+[19:58:13] [Server thread/INFO]: ReFineTray_1 left the game
+[19:58:31] [Server thread/INFO]: <rocket3989> finally we can shit talk that guy
+[19:58:44] [User Authenticator #6/INFO]: UUID of player ReFineTray_1 is f08c49db-56f6-4d2f-b216-a6889f0da6fe
+[19:58:44] [Server thread/INFO]: ReFineTray_1[/74.93.82.210:9530] logged in with entity id 25011 at (-103.08281521628484, 69.0, -308.9952014431439)
+[19:58:44] [Server thread/INFO]: ReFineTray_1 joined the game
+[19:58:51] [Server thread/INFO]: <GreenishBlueish> horrid bou
+[19:58:57] [Server thread/INFO]: <ReFineTray_1> ty
+[19:59:00] [Server thread/INFO]: <ReFineTray_1> by collin
+[19:59:06] [Server thread/INFO]: <GreenishBlueish> by tray
+[19:59:29] [Server thread/INFO]: <ReFineTray_1> see u suun
+[20:00:00] [Server thread/INFO]: [@: Teleported rocket3989 to 199770.5, 66.0, 20.5]
+[20:00:15] [Server thread/INFO]: ReFineTray_1 lost connection: Disconnected
+[20:00:15] [Server thread/INFO]: ReFineTray_1 left the game
+[20:00:44] [Server thread/INFO]: [rocket3989: Teleported rocket3989 to 199680.91093422365, 250.0, 367.9468417308884]
+[20:00:55] [Server thread/INFO]: [@: Set the time to 1000]
+[20:03:44] [Server thread/INFO]: [rocket3989: Teleported rocket3989 to GreenishBlueish]
+[20:03:56] [Server thread/INFO]: <rocket3989> so fireworks make you fly
+[20:04:00] [Server thread/INFO]: [rocket3989: Teleported rocket3989 to -97.18734430111542, 250.0, -320.3026899678148]
+[20:04:09] [Server thread/INFO]: <GreenishBlueish> interesting
+[20:04:31] [Server thread/INFO]: <GreenishBlueish> omg you're like the tooth fairy
+[20:05:03] [Server thread/INFO]: <GreenishBlueish> do u play minecraft to either fly or dig down super deep
+[20:05:04] [Server thread/INFO]: <rocket3989> icarus NNOOO
+[20:05:26] [Server thread/INFO]: <rocket3989> and yes
+[20:06:04] [Server thread/INFO]: <rocket3989> I am a thrill seeker
+[20:06:13] [Server thread/INFO]: <rocket3989> anyway I gotta head out
+[20:06:22] [Server thread/INFO]: <rocket3989> good work with the house
+[20:06:22] [Server thread/INFO]: <GreenishBlueish> oh okay :'(
+[20:06:26] [Server thread/INFO]: <GreenishBlueish> thanks boss
+[20:06:30] [Server thread/INFO]: <rocket3989> you can keep going tho
+[20:06:31] [Server thread/INFO]: <GreenishBlueish> bye coolin
+[20:06:34] [Server thread/INFO]: rocket3989 lost connection: Disconnected
+[20:06:34] [Server thread/INFO]: rocket3989 left the game
+[20:11:07] [Server thread/INFO]: [@: Set the time to 1000]
+[20:13:25] [Server thread/INFO]: GreenishBlueish lost connection: Disconnected
+[20:13:25] [Server thread/INFO]: GreenishBlueish left the game
+[20:15:05] [Server thread/INFO]: Stopping the server
+[20:15:05] [Server thread/INFO]: Stopping server
+[20:15:05] [Server thread/INFO]: Saving players
+[20:15:05] [Server thread/INFO]: Saving worlds
+[20:15:05] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[20:15:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:15:05] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[20:15:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:15:05] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[20:15:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:15:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:15:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:15:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

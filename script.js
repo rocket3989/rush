@@ -1,6 +1,5 @@
 const express = require('express')
 const WebSocket = require('ws')
- 
 
 const server = express()
 const PORT = process.env.PORT = 3989
@@ -96,7 +95,6 @@ setInterval(function(){
             d.arr.forEach(ws => {
                 ws.send(JSON.stringify(data))
             })
-
         }
     })
 }, 1000 / 60)
